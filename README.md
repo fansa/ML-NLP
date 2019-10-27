@@ -1,4 +1,4 @@
-## 项目介绍111
+## 项目介绍222
 
 - 此项目是**机器学习、NLP面试**中常考到的**知识点和代码实现**，也是作为一个算法工程师必会的理论基础知识。
 - 既然是以面试为主要目的，亦不可以篇概全，请谅解，有问题可提出。
@@ -15,8 +15,8 @@
 
 - **项目持续更新中......**
 
-| 模块     | 章节                                                         | 负责人(GitHub)                          | 联系QQ    |
-| -------- | ------------------------------------------------------------ | --------------------------------------- | --------- |
+| 模块   | 章节                                       | 负责人(GitHub)                             | 联系QQ      |
+| ---- | ---------------------------------------- | --------------------------------------- | --------- |
 | 机器学习 | [1. 线性回归(Liner Regression)](https://github.com/NLP-LOVE/ML-NLP/blob/master/Machine%20Learning/Liner%20Regression/1.Liner%20Regression.md) | [@mantchs](https://github.com/NLP-LOVE) | 448966528 |
 | 机器学习 | [2. 逻辑回归(Logistics Regression)](https://github.com/NLP-LOVE/ML-NLP/blob/master/Machine%20Learning/2.Logistics%20Regression/2.Logistics%20Regression.md) | [@mantchs](https://github.com/NLP-LOVE) | 448966528 |
 | 机器学习 | [3. 决策树(Desision Tree)](https://github.com/NLP-LOVE/ML-NLP/blob/master/Machine%20Learning/3.Desition%20Tree/Desition%20Tree.md) | [@mantchs](https://github.com/NLP-LOVE) | 448966528 |
@@ -25,7 +25,7 @@
 | 机器学习 | [3.3 XGBoost](https://github.com/NLP-LOVE/ML-NLP/blob/master/Machine%20Learning/3.3%20XGBoost/3.3%20XGBoost.md) | [@mantchs](https://github.com/NLP-LOVE) | 448966528 |
 | 机器学习 | [3.4 LightGBM](https://github.com/NLP-LOVE/ML-NLP/blob/master/Machine%20Learning/3.4%20LightGBM/3.4%20LightGBM.md) | [@mantchs](https://github.com/NLP-LOVE) | 448966528 |
 | 机器学习 | [4. 支持向量机(SVM)](https://github.com/NLP-LOVE/ML-NLP/blob/master/Machine%20Learning/4.%20SVM/4.%20SVM.md) | [@mantchs](https://github.com/NLP-LOVE) | 448966528 |
-| 机器学习 | 5. 概率图模型(Probabilistic Graphical Model)                 |                                         |           |
+| 机器学习 | 5. 概率图模型(Probabilistic Graphical Model)  |                                         |           |
 | 机器学习 | [5.1 贝叶斯网络(Bayesian Network)](https://github.com/NLP-LOVE/ML-NLP/blob/master/Machine%20Learning/5.1%20Bayes%20Network/5.1%20Bayes%20Network.md) | [@mantchs](https://github.com/NLP-LOVE) | 448966528 |
 | 机器学习 | [5.2 马尔科夫(Markov)](https://github.com/NLP-LOVE/ML-NLP/blob/master/Machine%20Learning/5.2%20Markov/5.2%20Markov.md) | [@mantchs](https://github.com/NLP-LOVE) | 448966528 |
 | 机器学习 | [5.3 主题模型(Topic Model)](https://github.com/NLP-LOVE/ML-NLP/tree/master/Machine%20Learning/5.3%20Topic%20Model) | [@mantchs](https://github.com/NLP-LOVE) | 448966528 |
@@ -41,14 +41,14 @@
 | 深度学习 | [13.迁移学习(Transfer)](https://github.com/NLP-LOVE/ML-NLP/tree/master/Deep%20Learning/13.%20Transfer%20Learning) | [@mantchs](https://github.com/NLP-LOVE) | 448966528 |
 | 深度学习 | [14.强化学习(Reinforcement) & 多任务](https://github.com/NLP-LOVE/ML-NLP/tree/master/Deep%20Learning/14.%20Reinforcement%20Learning) | [@mantchs](https://github.com/NLP-LOVE) | 448966528 |
 | 深度学习 | [15. 深度学习的优化方法](https://github.com/NLP-LOVE/ML-NLP/tree/master/Deep%20Learning/15.%20DL%20Optimizer) | [@mantchs](https://github.com/NLP-LOVE) | 448966528 |
-| NLP      | [16. 自然语言处理(NLP)](https://github.com/NLP-LOVE/ML-NLP/tree/master/NLP/16.%20NLP) | [@mantchs](https://github.com/NLP-LOVE) | 448966528 |
-| NLP      | [16.1 词嵌入(Word2Vec)](https://github.com/NLP-LOVE/ML-NLP/tree/master/NLP/16.1%20Word%20Embedding) | [@mantchs](https://github.com/NLP-LOVE) | 448966528 |
-| NLP      | 16.2 子词嵌入(fastText)                                      |                                         |           |
-| NLP      | 16.3 全局向量词嵌入(GloVe)                                   |                                         |           |
-| NLP      | 16.4 textCNN                                                 |                                         |           |
-| NLP      | 16.5 序列到序列模型(seq2seq)                                 |                                         |           |
-| NLP      | 16.6 注意力机制(Attention Mechanism)                         |                                         |           |
-| NLP      | 16.7 BERT模型                                                |                                         |           |
+| NLP  | [16. 自然语言处理(NLP)](https://github.com/NLP-LOVE/ML-NLP/tree/master/NLP/16.%20NLP) | [@mantchs](https://github.com/NLP-LOVE) | 448966528 |
+| NLP  | [16.1 词嵌入(Word2Vec)](https://github.com/NLP-LOVE/ML-NLP/tree/master/NLP/16.1%20Word%20Embedding) | [@mantchs](https://github.com/NLP-LOVE) | 448966528 |
+| NLP  | 16.2 子词嵌入(fastText)                      |                                         |           |
+| NLP  | 16.3 全局向量词嵌入(GloVe)                      |                                         |           |
+| NLP  | 16.4 textCNN                             |                                         |           |
+| NLP  | 16.5 序列到序列模型(seq2seq)                    |                                         |           |
+| NLP  | 16.6 注意力机制(Attention Mechanism)          |                                         |           |
+| NLP  | 16.7 BERT模型                              |                                         |           |
 
 
 
